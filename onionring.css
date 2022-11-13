@@ -8,7 +8,8 @@
 #sites {
     margin: 0 auto;
     padding: 15px;
-    color: red;
+    color: #39FF14;
+    border: 3px double #39FF14;
     /* creates some space around the widget */
 }
 
