@@ -9,12 +9,12 @@
     margin: 0 auto;
     padding: 15px;
     color: #39FF14;
-    border: 3px double #39FF14;
     /* creates some space around the widget */
 }
 
 #sites table {
     background-color: #000000;
+    border: 3px double #39FF14;
     /* makes the background black */
     margin: 0 auto;
     /* centers the widget */
