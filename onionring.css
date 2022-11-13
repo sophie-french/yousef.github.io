@@ -12,8 +12,8 @@
 }
 
 #sites table {
-    background-color: #ffffff;
-    /* makes the background pure white */
+    background-color: #000000;
+    /* makes the background black */
     margin: 0 auto;
     /* centers the widget */
 }
