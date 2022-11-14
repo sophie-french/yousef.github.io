@@ -61,7 +61,6 @@ else {
       <td class='webring-prev'><a href='${sites[previousIndex]}' target='_blank'>← previous</a></td>
       <td class='webring-info'>This site is part of the <i> ${ringName} </i>webring</br>
       <span class='webring-links'>
-        ${randomText}
         ${indexText}
         <a href='https://sophiefrench.com.au/ target='_blank''>what is this?</a></span></td>
       <td class='webring-next'><a href='${sites[nextIndex]}' target='_blank'>next →</a></td>
