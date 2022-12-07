@@ -5,15 +5,18 @@
 /* === ONIONRING.CSS === */
 /* this file affects the style of the widget. remember to replace all instances of #webringid with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
 
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital@0;1&display=swap');
+
 #sites {
     margin: 0 auto;
 /*     padding: 15px; */
-    color: #39FF14;
+    color: blue;
+    font-family: 'Space Mono', monospace;
     /* creates some space around the widget */
 }
 
 #sites table {
-    background-color: #000000;
+    background-color: #ffffff;
     border: 3px double #39FF14;
     /* makes the background black */
     margin: 0 auto;
@@ -27,19 +30,20 @@
 
 #sites .webring-prev {
     text-align: right;
-    color: white;
+    color: blue;
 }
 
 #sites .webring-info {
     text-align: center;
-    color: white;
+    color: blue;
 }
 
 #sites .webring-next {
     text-align: left;
+    color: blue;
 }
 
 #sites .webring-links {
     font-size: small;
-    color: white;
+    color: blue;
 }
