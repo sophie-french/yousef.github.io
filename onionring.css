@@ -17,7 +17,7 @@
 
 #sites table {
     background-color: #ffffff;
-    border: 3px double #39FF14;
+    border: 3px double blue;
     /* makes the background black */
     margin: 0 auto;
     /* centers the widget */
@@ -47,3 +47,16 @@
     font-size: small;
     color: blue;
 }
+
+
+        a:hover {
+            color: blueviolet;
+        }
+
+        a:visited:hover {
+            color: blueviolet;
+        }
+
+        a:visited {
+            color: blue;
+        }
